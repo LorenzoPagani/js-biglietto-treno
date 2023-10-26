@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://www.fsnews.it/content/dam/fs_news/focus-2022/aprile/servizi/29_04_2022_Treni_vacanze_estive_2022_02.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    padding: 18px;
+    border-radius: 15px;
+    background: #abc8ff;
+}
